@@ -1,0 +1,13 @@
+
+1)Write a curl command to save the response into a local file.
+2)Write a curl command for a url which redirect itself, for example try writing a curl command for “http://stackoverflow.com”
+
+3)Write curl commands for following protocols. 
+   a)FTP
+
+   b)ssh
+   
+   c)telnet 
+
+4)Write a curl command to send multiple parameters in a post request http.
+Rapportive
